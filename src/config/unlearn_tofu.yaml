@@ -1,0 +1,17 @@
+model_path: /work1/shengyua/TOFU/ft_epoch5_lr1e-05_llama2-7b_full_wd0.01/checkpoint-1250
+
+LoRA:
+  r: 0
+  alpha: 128
+  dropout: 0.05
+
+forget_loss: npo
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 2
+lr: 1e-5
+save_steps: 10
+with_kl: False
+
+save_dir: ../unlearn_models/tofu_npo
+weight_decay: 0.01

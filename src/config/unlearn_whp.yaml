@@ -1,0 +1,17 @@
+model_path: meta-llama/Llama-2-7b-hf
+
+LoRA:
+  r: 0
+  alpha: 128
+  dropout: 0.05
+
+forget_loss: scrub
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 1.7
+lr: 1e-6
+save_steps: 70
+with_kl: False
+
+save_dir: ../unlearn_models/whp_scrub
+weight_decay: 0.01

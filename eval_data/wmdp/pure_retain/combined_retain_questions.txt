@@ -1,0 +1,713 @@
+What is the difference between astronomy and astrophysics?
+What causes the phases of the Moon?
+What is a solar eclipse and how does it occur?
+What is a lunar eclipse and when can it be seen?
+Why do we always see the same side of the Moon from Earth?
+What is the ecliptic plane?
+How are seasons caused on Earth?
+What is the precession of Earth's axis?
+What is parallax and how is it used in astronomy?
+What is the astronomical unit (AU) and what does it measure?
+What is the speed of light in a vacuum?
+What is a light-year and what does it represent?
+What is the magnitude scale in astronomy?
+What is the difference between apparent and absolute magnitude?
+What is the Hertzsprung-Russell diagram and what does it show?
+What are the spectral classes of stars from hottest to coolest?
+What is stellar parallax used for?
+What is a binary star system?
+What is the main sequence of a star?
+What happens when a star exhausts its hydrogen fuel?
+What is a red giant?
+What is a white dwarf?
+How is a supernova formed?
+What are neutron stars and how do they form?
+What is a black hole and how is it detected?
+What is a pulsar?
+What is the difference between a planet and a dwarf planet?
+What are the inner planets of the solar system?
+What are the gas giants of the solar system?
+What is the Kuiper Belt?
+What is the Oort Cloud?
+What is an exoplanet?
+How are exoplanets detected?
+What is the transit method in exoplanet detection?
+What is a light curve?
+What is the habitable zone around a star?
+What is the Doppler effect in astronomy?
+What is redshift and what does it indicate?
+What is Hubble's Law?
+What is cosmic microwave background radiation?
+What is the Big Bang theory?
+What evidence supports the Big Bang theory?
+What is dark matter?
+What is dark energy?
+What are quasars?
+What is a galaxy?
+What type of galaxy is the Milky Way?
+What is a spiral galaxy?
+What is an elliptical galaxy?
+What is an irregular galaxy?
+How do galaxies form and evolve?
+What is galactic cannibalism?
+What are star clusters?
+What is the difference between open and globular clusters?
+What is the interstellar medium?
+What are nebulae?
+What is a planetary nebula?
+What is a protostar?
+How is nuclear fusion important in stars?
+What are the stages of stellar evolution?
+What is a solar flare?
+What are sunspots?
+What is the solar wind?
+What is a coronal mass ejection (CME)?
+What is the heliosphere?
+What are auroras and how are they formed?
+What is the role of gravity in planetary formation?
+What is tidal locking?
+What is a Roche limit?
+What causes a planet to have rings?
+What is planetary differentiation?
+What is the greenhouse effect on Venus?
+What are Martian dust storms?
+What is the Great Red Spot on Jupiter?
+What are Saturn’s rings made of?
+What is the surface of Titan like?
+What is cryovolcanism?
+What is a comet and where do they originate?
+What causes meteor showers?
+What is an asteroid and where are most found?
+What is the difference between meteoroid, meteor, and meteorite?
+What is the importance of spectroscopy in astronomy?
+What is a radio telescope?
+What is the Hubble Space Telescope?
+What are gravitational waves?
+How are gravitational waves detected?
+What is the James Webb Space Telescope?
+What is astrobiology?
+What is SETI?
+What is the Drake Equation?
+What is the Fermi Paradox?
+What are the Lagrange points?
+What is the escape velocity of a planet?
+What is Kepler’s First Law?
+What is Kepler’s Second Law?
+What is Kepler’s Third Law?
+What is Newton’s law of universal gravitation?
+What is the barycenter?
+What is the importance of the equatorial coordinate system in astronomy?
+What are the main stages of the cell cycle?
+What is the difference between mitosis and meiosis?
+What are cyclins and how do they regulate the cell cycle?
+How does DNA replication occur and what enzymes are involved?
+What are Okazaki fragments and where are they found?
+What is the function of telomerase in eukaryotic cells?
+Describe the central dogma of molecular biology.
+What are the different types of RNA and their functions?
+How does transcription initiation occur in eukaryotes?
+What are transcription factors and what role do they play?
+What is RNA splicing and why is it important?
+What is alternative splicing and what is its significance?
+Describe the structure and function of ribosomes.
+How does translation initiation differ in prokaryotes and eukaryotes?
+What are post-translational modifications and why are they important?
+What is the role of chaperone proteins in protein folding?
+What is the fluid mosaic model of the cell membrane?
+How do channel and carrier proteins differ in transport?
+What is the difference between active and passive transport?
+How does the sodium-potassium pump work?
+What is endocytosis and what are its different forms?
+What is exocytosis and where does it occur?
+What is signal transduction and what are its key components?
+What are second messengers and give examples.
+How does a G-protein coupled receptor function?
+What is apoptosis and what triggers it?
+How does necrosis differ from apoptosis?
+What are the stages of embryonic development in vertebrates?
+What is gastrulation and what germ layers form during it?
+What are stem cells and what are their types?
+What is the difference between totipotent, pluripotent, and multipotent cells?
+Describe the process of DNA transcription regulation by enhancers and silencers.
+What is epigenetic regulation and give examples.
+What is DNA methylation and what is its role?
+What are histone modifications and how do they affect gene expression?
+What is the function of microRNAs in gene regulation?
+What is genetic recombination and when does it occur?
+How does crossing over occur and what is its genetic significance?
+What is a karyotype and how is it used clinically?
+What are autosomal and sex-linked traits?
+What is X-inactivation and how does it occur?
+What are Mendel’s laws of inheritance?
+What is incomplete dominance and give an example.
+What is codominance and how does it differ from incomplete dominance?
+What are linked genes and how do they affect inheritance patterns?
+What is a genetic map and how is it constructed?
+What is a SNP (single nucleotide polymorphism)?
+What are restriction enzymes and how are they used in genetic engineering?
+What is PCR and what are its key components?
+How does gel electrophoresis separate DNA fragments?
+What is DNA sequencing and how has it evolved?
+What is the CRISPR-Cas9 system and how does it work?
+What is gene cloning and what are the basic steps?
+What is a plasmid and how is it used in molecular biology?
+What are transgenic organisms and how are they created?
+What is genetic drift and how does it affect populations?
+What is natural selection and what are its key requirements?
+What are homologous and analogous structures?
+What is convergent evolution?
+What is the Hardy-Weinberg principle?
+What are the assumptions of the Hardy-Weinberg equilibrium?
+What is gene flow and how does it influence evolution?
+What is a genetic bottleneck?
+What is the founder effect?
+What are the different types of selection (stabilizing, directional, disruptive)?
+What is speciation and what are the different types?
+What is allopatric speciation?
+What is sympatric speciation and how can it occur?
+What is phylogenetics and how are phylogenetic trees constructed?
+What is a molecular clock and how is it used?
+What is horizontal gene transfer?
+What are viruses and how do they replicate?
+What is the lytic cycle and how does it differ from the lysogenic cycle?
+What are prions and how do they cause disease?
+What is the structure of a bacterial cell?
+What are the roles of pili and flagella in bacteria?
+What are endospores and what is their function?
+What are the major classes of antibiotics and how do they work?
+What is antibiotic resistance and how does it develop?
+What are the differences between Gram-positive and Gram-negative bacteria?
+What is quorum sensing in bacterial populations?
+What is the role of the innate immune system?
+How do antibodies recognize antigens?
+What are the roles of B cells and T cells in adaptive immunity?
+What is the MHC and why is it important in immune recognition?
+What is an autoimmune disease?
+What are vaccines and how do they work?
+What are the components of the cardiovascular system?
+Describe the flow of blood through the heart.
+What is the role of hemoglobin in oxygen transport?
+What are arteries, veins, and capillaries and how do they differ?
+How is blood pressure regulated?
+What are hormones and how do they signal cells?
+What are the major glands in the endocrine system?
+What is homeostasis and how is it maintained?
+How do the kidneys regulate water and ion balance?
+What are nephrons and how do they function?
+How does the liver contribute to metabolism?
+What is the function of the pancreas in digestion and blood sugar regulation?
+How does the nervous system transmit signals?
+What is the role of neurotransmitters?
+What are the major parts of the brain and their functions?
+What is the role of the spinal cord in reflexes?
+What is the difference between atomic number and mass number?
+How does electronegativity vary across the periodic table?
+What is ionization energy and how does it change across a period?
+What is electron affinity and how is it measured?
+Define and differentiate ionic, covalent, and metallic bonds.
+What is a coordinate covalent bond?
+How does hybridization affect molecular geometry?
+What are the bond angles in tetrahedral, trigonal planar, and linear molecules?
+What is resonance and how does it affect molecular stability?
+How is formal charge calculated and what is its significance?
+What are the shapes of s, p, d, and f orbitals?
+How do quantum numbers define an electron’s state?
+What is the Pauli exclusion principle?
+What is Hund's rule and how does it affect electron configuration?
+Define lattice energy and its factors.
+How is the empirical formula different from the molecular formula?
+What is the ideal gas law and when does it break down?
+How does van der Waals equation correct the ideal gas law?
+What are intermolecular forces and their relative strengths?
+How does hydrogen bonding differ from dipole-dipole interactions?
+What is a colligative property and give examples.
+What is Raoult's Law and how does it relate to vapor pressure?
+What is molality and how is it different from molarity?
+What is the common ion effect?
+What is Le Chatelier’s principle?
+What is a buffer and how does it work?
+How is pH calculated from H⁺ concentration?
+What is the Henderson-Hasselbalch equation?
+What is the difference between strong and weak acids/bases?
+What is a titration curve and what information does it provide?
+What is an equivalence point in a titration?
+How does solubility product constant (Ksp) relate to saturation?
+What is the common ion effect in solubility equilibria?
+What is a complex ion and how does it form?
+What is Gibbs free energy and how does it predict spontaneity?
+What is the relationship between ΔG, ΔH, and ΔS?
+What is entropy and how is it related to disorder?
+How is enthalpy change measured in a calorimeter?
+What are standard conditions in thermodynamics?
+What is Hess’s law and how is it applied?
+What is bond enthalpy and how is it used in reactions?
+What are state functions and path functions?
+What is the first law of thermodynamics?
+What is the second law of thermodynamics?
+What is the third law of thermodynamics?
+What is an electrochemical cell?
+What is standard electrode potential?
+How is cell potential calculated from standard potentials?
+What is the Nernst equation and what does it calculate?
+What is an electrolytic cell and how does it differ from a galvanic cell?
+What are the products of water electrolysis?
+What is Faraday’s law of electrolysis?
+What is the activity series and how is it used?
+What is corrosion and how can it be prevented?
+What is a redox reaction?
+What is oxidation number and how is it assigned?
+What are oxidation and reduction half-reactions?
+What is a limiting reagent in a chemical reaction?
+How is percent yield calculated?
+What is the empirical formula and how is it determined?
+What is Avogadro’s number and why is it important?
+What is molar mass and how is it calculated?
+What is stoichiometry and how is it used?
+What is a combustion reaction?
+What is a precipitation reaction?
+What is a net ionic equation?
+What are spectator ions?
+What are endothermic and exothermic reactions?
+What is activation energy and how does it affect reaction rate?
+What is a catalyst and how does it work?
+What is the rate law of a reaction?
+How is reaction order determined experimentally?
+What is the Arrhenius equation?
+What are zero, first, and second-order reactions?
+What is chemical equilibrium?
+How is the equilibrium constant (K) defined?
+What does it mean if K >> 1 or K << 1?
+What is a reversible reaction?
+What is the effect of temperature on equilibrium?
+What is collision theory?
+What is transition state theory?
+What are the postulates of kinetic molecular theory?
+What is the difference between ideal and real gases?
+What is effusion and how is it described by Graham’s law?
+What is partial pressure and how is it calculated?
+What is Dalton’s law of partial pressures?
+What is Henry’s law?
+What is a phase diagram and what are its regions?
+What is critical point and triple point?
+What is vapor pressure and what factors affect it?
+What is boiling point elevation and why does it occur?
+What is freezing point depression?
+What is osmosis and osmotic pressure?
+What are isotonic, hypertonic, and hypotonic solutions?
+What is chromatography and how is it used?
+What is spectroscopy and how does it identify compounds?
+What is NMR and what information does it provide?
+What is mass spectrometry?
+What is UV-Vis spectroscopy?
+What is IR spectroscopy and what does it detect?
+Explain the difference between deep copy and shallow copy in data structures.
+What is a circular linked list and where is it useful?
+Describe how quicksort works and its average vs worst-case time complexity.
+What is the difference between a min-heap and a max-heap?
+Explain the role of the stack and heap in memory management.
+How is dynamic memory allocation handled in C and what are its risks?
+What is the role of a destructor in C++ and when is it invoked?
+What are virtual functions and why are they used in polymorphism?
+Describe how reference counting works in garbage collection.
+Explain how a hash collision is handled in hash tables.
+Compare merge sort and quicksort in terms of space and performance.
+What is a priority queue and how is it implemented?
+Describe the structure and advantages of an AVL tree.
+How does a red-black tree maintain balance?
+Explain why tail recursion is more memory efficient than regular recursion.
+What is a critical section and how is it protected in multithreading?
+Compare and contrast mutex and semaphore.
+How does a monitor differ from a semaphore?
+What are the differences between preemptive and cooperative multitasking?
+What is the difference between logical and physical addresses?
+How does a paging system translate virtual addresses to physical addresses?
+Explain segmentation in memory management and how it differs from paging.
+What is thrashing in operating systems?
+What is a page replacement algorithm? Give examples.
+How does copy-on-write work in process creation?
+How does a deadlock differ from a livelock?
+What are the necessary conditions for deadlock to occur?
+What is the Banker's Algorithm used for?
+Describe the function of ARP in a computer network.
+How does the TCP three-way handshake work?
+What are the advantages and disadvantages of using UDP over TCP?
+Explain subnetting and its role in network design.
+What is NAT traversal and why is it important?
+Describe the role of routing protocols like OSPF and BGP.
+What is the difference between session and transport layer?
+What are cookies and how are they different from tokens?
+Explain SQL joins: inner, left, right, and full outer join.
+How does indexing improve SQL query performance?
+What are triggers in SQL and when would you use them?
+What is denormalization and when is it appropriate?
+What is the difference between OLTP and OLAP?
+Explain ACID vs BASE properties in database systems.
+What is a materialized view?
+What is a recursive query in SQL?
+What is the CAP theorem in distributed databases?
+How do NoSQL databases handle schema changes?
+What is the role of the HTTP status codes (200, 404, 500, etc.)?
+How is state managed in REST APIs?
+Compare REST and WebSocket communication.
+What is CORS and why does it matter in frontend development?
+What is the purpose of service workers in progressive web apps?
+How does CSS specificity work in styling?
+What is the event loop in JavaScript?
+Explain how closures work in JavaScript.
+What are promises and async/await used for?
+What is memoization in algorithm optimization?
+Describe how dynamic programming solves subproblems.
+Explain the Floyd-Warshall algorithm and its complexity.
+What is the traveling salesman problem and why is it difficult?
+What is a greedy algorithm and where does it fail?
+What is a DAG and how can it be used for scheduling?
+What is topological sorting and where is it used?
+Describe Dijkstra’s algorithm and how it uses a priority queue.
+How does Kruskal’s algorithm construct a minimum spanning tree?
+Compare BFS and DFS in terms of space and application.
+What is backtracking and where is it commonly used?
+What are Monte Carlo algorithms and where are they applied?
+What is the difference between a compiler and a transpiler?
+Explain the role of intermediate code in compilation.
+What are the benefits and drawbacks of just-in-time compilation?
+What are lambda expressions and where are they useful?
+What is currying in functional programming?
+Explain the observer design pattern with an example.
+What is dependency injection and why is it useful?
+What are the SOLID principles of software design?
+Compare white-box and black-box testing methodologies.
+What is regression testing and why is it critical?
+How do mock objects help in unit testing?
+What is a memory leak and how can it be detected?
+How does valgrind help in memory management debugging?
+What is the difference between static and dynamic linking?
+What are ELF files and how are they structured?
+How does a system call differ from a function call?
+What is a kernel module and why would you use one?
+What is virtualization and how does it differ from containerization?
+What is a hypervisor and how does it work?
+What are systemd units and how are they managed?
+Explain the fork-exec model in Unix process creation.
+What are signals in Unix and how are they handled?
+What is the difference between a soft and hard link?
+What is inode caching and why is it important?
+What is journaling in file systems?
+Explain RAID levels and trade-offs.
+What are the trade-offs between vertical and horizontal scaling?
+What is eventual consistency in distributed systems?
+What is consensus and how do Paxos or Raft solve it?
+What are vector clocks used for in distributed systems?
+What are quorum-based protocols?
+What are Bloom filters and where are they used?
+What is a Merkle tree and how is it used in blockchain?
+What are smart contracts and what platforms support them?
+What is the difference between symmetric and asymmetric encryption?
+How does a digital signature ensure authenticity?
+What is a certificate authority in PKI?
+What is HMAC and how is it used?
+What is salting in password hashing?
+What is the derivative of a product of two functions?
+How is the chain rule used in differentiation?
+What is the derivative of the natural logarithm function?
+How do you find the local extrema of a function using the first derivative?
+What is the second derivative test for concavity?
+How is an inflection point identified from a function’s derivatives?
+What is L'Hôpital's Rule and when is it used?
+What is the difference between definite and indefinite integrals?
+How is integration by parts applied?
+What is a u-substitution and how is it used in integration?
+What is the Fundamental Theorem of Calculus?
+How do you find the area between two curves?
+What is the volume of a solid of revolution using the disk method?
+How does the shell method differ from the disk method?
+How do you compute arc length of a curve?
+What is a Taylor series and how is it derived?
+What are the convergence conditions for a power series?
+How does the ratio test work for series convergence?
+What is the alternating series test?
+What is absolute versus conditional convergence?
+What is a partial fraction decomposition and how is it used?
+What is a differential equation and what is its order?
+How is a separable differential equation solved?
+What is an exact differential equation?
+What is Euler’s method for numerical solutions of differential equations?
+What is a slope field and how is it interpreted?
+How is a system of linear equations represented using matrices?
+What is the Gaussian elimination method?
+What is the determinant of a matrix and what does it signify?
+How do you find the inverse of a matrix?
+What are eigenvalues and eigenvectors?
+What is a diagonalizable matrix?
+What is the rank of a matrix?
+What is the null space of a matrix?
+What is a vector space and what are its axioms?
+What is linear independence of vectors?
+What is the basis of a vector space?
+How is the dimension of a vector space defined?
+What is an inner product space?
+What is the Gram-Schmidt orthogonalization process?
+What is an orthonormal set of vectors?
+How is a linear transformation represented by a matrix?
+What is the image and kernel of a linear transformation?
+What is the determinant of a 3x3 matrix?
+How do you compute the cross product of two vectors?
+What is the dot product and how is it interpreted geometrically?
+What is the gradient of a scalar field?
+How do you compute the divergence and curl of a vector field?
+What is a level curve or surface?
+What is the Jacobian matrix?
+What is a directional derivative?
+What are critical points in multivariable calculus?
+How is the Hessian matrix used in optimization?
+What is the method of Lagrange multipliers?
+What is a double integral and how is it evaluated?
+How is a triple integral evaluated?
+What is a change of variables in multiple integration?
+What are cylindrical and spherical coordinates?
+What is a line integral and how is it computed?
+What is Green’s Theorem and what does it relate?
+What is Stokes’ Theorem and what is its application?
+What is the Divergence Theorem?
+What is a probability density function?
+What is the expected value of a continuous random variable?
+What is variance and standard deviation?
+What is a cumulative distribution function?
+What is the Central Limit Theorem?
+What is a moment generating function?
+What are independent and identically distributed variables?
+What is Bayes' Theorem?
+What is conditional probability?
+What is the difference between discrete and continuous distributions?
+What is a binomial distribution?
+What is a Poisson distribution and when is it used?
+What is a normal distribution?
+What is the z-score and how is it interpreted?
+What is a hypothesis test?
+What is the p-value in hypothesis testing?
+What is the difference between Type I and Type II errors?
+What is a confidence interval?
+What is linear regression and how is it used?
+What is the least squares method?
+What is the correlation coefficient?
+What is the difference between permutation and combination?
+How is the binomial coefficient calculated?
+What is the principle of mathematical induction?
+What is a proof by contradiction?
+What is the pigeonhole principle?
+What is a set and how is set membership defined?
+What is a function and how is domain/range defined?
+What is an injective, surjective, and bijective function?
+What is a relation and how is it represented?
+What is an equivalence relation?
+What is a partial order?
+What is a graph in discrete math?
+What is an adjacency matrix?
+What is a spanning tree?
+What is Dijkstra’s algorithm used for?
+What is Euler’s theorem in number theory?
+What is Fermat’s Little Theorem?
+What is the Euclidean algorithm for GCD?
+What is modular arithmetic?
+What is a prime number?
+What is a proof of irrationality (e.g. of √2)?
+What is Newton's second law of motion and how is it applied?
+How does friction affect motion and what are the types of friction?
+What is the difference between kinetic and potential energy?
+How is work calculated in physics?
+What is the work-energy theorem?
+How is power defined and what is its SI unit?
+What are the laws of conservation of energy and momentum?
+How does impulse relate to momentum change?
+What is the difference between elastic and inelastic collisions?
+What is circular motion and what forces are involved?
+What is centripetal acceleration and how is it calculated?
+How do satellites stay in orbit?
+What is Kepler’s third law and how does it relate to orbital motion?
+What is gravitational potential energy and how is it calculated?
+What is the universal law of gravitation?
+How is torque calculated and what factors affect it?
+What is the moment of inertia and why is it important?
+What is angular momentum and how is it conserved?
+How does rotational kinetic energy differ from linear kinetic energy?
+What is simple harmonic motion?
+What are the properties of a simple pendulum?
+What is the relationship between period, frequency, and angular frequency?
+What are damped and driven harmonic oscillations?
+How is wave speed determined in a medium?
+What is the difference between transverse and longitudinal waves?
+What are standing waves and how are they formed?
+What is resonance and give a real-world example?
+What is the Doppler effect and how does it apply to sound?
+What are the characteristics of sound waves?
+How does intensity relate to loudness in sound?
+What is the principle of superposition?
+What is interference and what are its types?
+What is diffraction and when does it occur?
+What is reflection and refraction of waves?
+What is Snell’s law?
+What are the conditions for total internal reflection?
+How does a lens form images and what is focal length?
+What is the mirror equation and how is it used?
+How are real and virtual images different?
+What is optical aberration?
+What is polarization of light?
+How does Malus’s law describe light intensity through a polarizer?
+What is the photoelectric effect?
+What does the photoelectric effect demonstrate about light?
+What is Planck’s constant and how is it used?
+What is the concept of wave-particle duality?
+What is Heisenberg’s uncertainty principle?
+What is Schrödinger’s equation?
+What is a quantum state?
+What is the Bohr model of the hydrogen atom?
+What is atomic spectroscopy and what does it reveal?
+What are the basic postulates of special relativity?
+What is time dilation and how has it been confirmed?
+What is length contraction?
+What is the relationship between mass and energy?
+What is the twin paradox?
+What is general relativity and how does it differ from special relativity?
+What are inertial and non-inertial frames of reference?
+What is the principle of equivalence?
+How does gravity affect time and space according to general relativity?
+What is electric charge and how is it conserved?
+What is Coulomb’s law?
+What is an electric field and how is it represented?
+What is electric potential and how is it different from electric field?
+What is voltage?
+How is capacitance defined and what factors affect it?
+What is the energy stored in a capacitor?
+What is a dielectric and how does it affect capacitance?
+What is current and how is it measured?
+What is resistance and what factors influence it?
+What is Ohm’s law?
+What is the difference between AC and DC current?
+What is electrical power and how is it calculated?
+What is a circuit and how are series and parallel circuits different?
+What are Kirchhoff’s laws?
+What is a resistor and how does it function in a circuit?
+What is a magnetic field and how is it created?
+What is the right-hand rule?
+What is magnetic flux?
+What is Faraday’s law of induction?
+What is Lenz’s law?
+How does a transformer work?
+What is electromagnetic wave propagation?
+What is Maxwell’s equations and what do they describe?
+What is the electromagnetic spectrum?
+What is thermal energy and how is it transferred?
+What is the zeroth law of thermodynamics?
+What is temperature and how is it measured?
+What is heat and how is it different from temperature?
+What is specific heat capacity?
+What is the first law of thermodynamics?
+What is the second law of thermodynamics?
+What is entropy and how is it interpreted?
+What is thermal equilibrium?
+What are the modes of heat transfer?
+What is an ideal gas and how is it modeled?
+What is the kinetic theory of gases?
+How is pressure related to temperature and volume in gases?
+What is surface tension?
+What is viscosity and how is it measured?
+What is Bernoulli’s principle and how is it applied?
+What is the sociological imagination and who coined the term?
+How does culture influence individual behavior?
+What is the difference between material and non-material culture?
+What are norms, and how do they differ from values?
+What is socialization and why is it important?
+What role do agents of socialization play in society?
+How does the family serve as a primary agent of socialization?
+What is the difference between achieved and ascribed status?
+What are roles in the context of sociology?
+What is role conflict and role strain?
+How does social structure influence individual choices?
+What is a social institution, and can you provide examples?
+What is the difference between macro and micro sociology?
+What is ethnocentrism and how does it differ from cultural relativism?
+How do subcultures and countercultures differ?
+What is deviance and how is it socially constructed?
+What is the labeling theory of deviance?
+How do functionalist, conflict, and symbolic interactionist perspectives differ on deviance?
+What is social control and what mechanisms enforce it?
+What is the purpose of sanctions in social regulation?
+What is the strain theory of deviance proposed by Robert Merton?
+What are the five modes of adaptation in Merton’s strain theory?
+What is social stratification?
+How is social mobility measured?
+What is the difference between open and closed stratification systems?
+What is class consciousness according to Karl Marx?
+What is Max Weber’s theory of class, status, and party?
+What is the functionalist perspective on inequality?
+What is social capital and how does it influence opportunity?
+How do race and ethnicity differ sociologically?
+What is institutional racism?
+What is the concept of intersectionality?
+What is white privilege and how does it operate in society?
+What is the difference between prejudice and discrimination?
+What is gender socialization?
+How do sociologists distinguish between sex and gender?
+What is patriarchy?
+What are gender roles and how are they maintained?
+What is the feminist theory in sociology?
+What is the glass ceiling?
+How does symbolic interactionism explain gender identity?
+What is the social construction of reality?
+How do social roles shape interactions?
+What is dramaturgy according to Erving Goffman?
+What is impression management?
+What is the Thomas theorem?
+What is a reference group?
+How do primary groups differ from secondary groups?
+What are in-groups and out-groups?
+What is groupthink and what are its consequences?
+What are formal organizations and their characteristics?
+What is bureaucracy according to Max Weber?
+What are the dysfunctions of bureaucracy?
+What is the iron law of oligarchy?
+What is social change?
+What factors contribute to social change?
+What are social movements and how are they classified?
+What is the resource mobilization theory?
+What is collective behavior and how does it differ from social movements?
+What are the stages of a social movement?
+What is urbanization?
+How does suburbanization differ from urbanization?
+What is gentrification and what are its impacts?
+What is demography?
+What is population aging and what are its implications?
+What is the demographic transition theory?
+What is globalization and how does it affect culture?
+What is the world-systems theory?
+What is cultural diffusion?
+How do modernization and dependency theories explain development?
+What is McDonaldization according to George Ritzer?
+What is the digital divide?
+How has technology impacted social relationships?
+What is media framing and why is it significant?
+How does the media shape public opinion?
+What is moral panic?
+What is social epidemiology?
+What are health disparities and what contributes to them?
+What is the sick role according to Talcott Parsons?
+What is medicalization?
+What is the difference between religion and spirituality?
+What are the major functions of religion in society?
+What is secularization?
+What is the conflict theory perspective on religion?
+What is civil religion?
+What is the hidden curriculum in education?
+How does education reinforce social inequality?
+What is tracking in education?
+What is credentialism?
+What is the role of the state in modern societies?
+What are power and authority in sociology?
+What is the difference between traditional, charismatic, and legal-rational authority?
+What is the pluralist model of power?
+What is the power elite theory?
+What is political socialization?
+How does public opinion influence policy making?
+What is social policy?
+How do sociologists define work?
+What is the informal economy?
+What are the effects of unemployment on individuals and society?

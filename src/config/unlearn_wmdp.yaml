@@ -1,0 +1,17 @@
+model_path: HuggingFaceH4/zephyr-7b-beta
+
+LoRA:
+  r: 0
+  alpha: 128
+  dropout: 0.05
+
+forget_loss: grad_ascent
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 3
+lr: 1e-7
+save_steps: 70
+with_kl: True
+
+save_dir: ../unlearn_models/wmdp_kl
+weight_decay: 0.01

@@ -1,0 +1,17 @@
+model_path: meta-llama/Meta-Llama-3-8b-Instruct
+
+LoRA:
+  r: 0
+  alpha: 128
+  dropout: 0.05
+
+forget_loss: npo
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 1
+lr: 6e-8
+save_steps: 50
+with_kl: True
+
+save_dir: ../unlearn_models/rwku_ga
+weight_decay: 0.01

@@ -1,0 +1,13 @@
+model_path: meta-llama/Meta-Llama-3-8B-Instruct
+
+LoRA:
+  r: 0
+  alpha: 512
+  dropout: 0.05
+
+split: full
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 1
+save_dir: ../relearn_models
+weight_decay: 0

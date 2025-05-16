@@ -1,0 +1,34 @@
+HCoV-NL63
+MERS-CoV
+HCoV-229E
+Lassa virus
+HCoV-OC43
+HCoV-HKU1
+SARS‐CoV‐2
+Avian influenza A
+H7N9
+SARS-CoV-2
+H7N9
+SARS-CoV
+Nipah virus
+Chikungunya virus
+H7N7
+Marburg virus
+Avian influenza B
+H5N8
+H5N1
+Dengue virus
+Crimean-Congo hemorrhagic fever virus
+H5N6
+H9N2
+Hendra virus
+H5N6
+Ebola virus
+NL63 virus
+Junin virus
+Influenza A
+IAV infection
+Hendra virus
+CCHFV
+Bundibugyo virus
+Yellow fever virus
